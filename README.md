@@ -1,1 +1,2 @@
 # orangeXsayna
+Veullez récupérer dans ce repository ma rédaction intitulée  "L'AVENIR PROMETTEUR DES TIC : ÉVOLUTION PROBABLE DU DEVELOPPEMENT, DE L'IA, DU CLOUD ET DES SYSTEMES ET RESEAUX DANS LES DECENNIES A VENIR."
